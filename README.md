@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-All my git repositories are hosted over on [Codeberg](https://codeberg.org/chaoticenginerd) and my Github account is mostly for collaborating and reporting issues.
+All my git repositories are primarily hosted over on [Codeberg](https://codeberg.org/chaoticenginerd) and my Github account is mostly for collaborating and reporting issues.
 
 I urge you to read about the [Give up GitHub](https://GiveUpGitHub.org) campaign from [the Software Freedom Conservancy](https://sfconservancy.org) to understand some of the reasons why GitHub is not a good place to host FOSS projects.
 
